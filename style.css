@@ -1,0 +1,54 @@
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-top: 100px;
+    padding-left: 10px;
+    margin-left: 40px;
+    text-align: justify;
+    
+}
+h1{
+    font-size: 30px;
+    margin-top: 90;
+}
+h2{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+    font-family: monospace;
+    font-size: 20px;
+}
+.name-color{
+    color: orange;
+}
+section{
+    display: flex;
+
+}
+.half-width{
+    width: 50%;
+    padding: 20px;
+    margin-left: 5px;
+   
+    
+}
+.half-width img{
+    width: 75%;
+    padding-left:7%;
+    
+    
+}
+.clickbutton{
+    background-image: linear-gradient(yellow,tomato);
+    font-weight: 800;
+    text-decoration: none;
+    color:white;
+    padding:10px 40px ;
+    border-radius: 7px;
+    padding-bottom: 20px;
+}
+    h1, h2, h3, h4{
+        margin: 30px;
+        padding-left: 10px;
+        
+    }
