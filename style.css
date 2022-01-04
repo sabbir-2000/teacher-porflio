@@ -1,8 +1,8 @@
 body{
     font-family: 'Nanum Gothic', sans-serif;
-    margin-top: 100px;
-    padding-left: 10px;
-    margin-left: 40px;
+   margin: 0px;
+    
+   
     text-align: justify;
     
 }
@@ -23,18 +23,23 @@ h4{
 }
 section{
     display: flex;
+    margin-bottom: 120px;
+   
+
 
 }
 .half-width{
     width: 50%;
-    padding: 20px;
-    margin-left: 5px;
+    margin-left: 10%;
+    margin-top: 5%;
+
+    
    
     
 }
 .half-width img{
-    width: 75%;
-    padding-left:7%;
+    width: 90%;
+    
     
     
 }
@@ -47,8 +52,8 @@ section{
     border-radius: 7px;
     padding-bottom: 20px;
 }
-    h1, h2, h3, h4{
-        margin: 30px;
-        padding-left: 10px;
-        
+    .top-banner{
+     background-image: url(images/top-banner.png);
+     background-repeat: no-repeat;
     }
+    
