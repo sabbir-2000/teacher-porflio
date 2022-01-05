@@ -80,7 +80,10 @@ h4{
         margin-left: 8%;
         margin-right: 8%;
         padding: 15px;
-        box-shadow: 15px 15px 60px;
+        box-shadow: 20px 20px 60px;
+        border-radius: 5px;
+        color:gray;
+        
     }
     .exprience-area h1{
         margin-left: 20px;
@@ -88,3 +91,31 @@ h4{
         color:rgb(152, 181, 192);
     }
  
+    .exprience-area h2{
+        font-size: 30px;
+    }
+    .exprience-area{
+        background-image:url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: center;
+       
+    }
+    #border-box{
+        border-image: linear-gradient(rgb(166, 192, 170),rgb(206, 41, 170));
+        border-image-slice: 1;
+        border-left: 5px solid;
+    }
+    #width-box{
+        border-image: linear-gradient(yellow,tomato);
+        border-image-slice: 1;
+        border-left: 5px solid;
+        
+
+    }
+    #amar-name{
+        color:orange;
+        font-size: 30px;
+        font-weight: 800;
+        text-align: center;
+        font-family: monospace;
+    }
